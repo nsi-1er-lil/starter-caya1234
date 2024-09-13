@@ -1,4 +1,6 @@
-a = 5 
-b = 7
+# transformer cet affichage en multiplication
 
-print(a +b)
+a = 5 
+b = 6
+
+print(a * b)
