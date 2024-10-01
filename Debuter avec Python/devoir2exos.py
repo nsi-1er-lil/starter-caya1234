@@ -1,4 +1,4 @@
-exo 1
+#exo 1
 
 import random
 taille = random.randit(0,270)
@@ -8,7 +8,7 @@ else:
     print(taille, 'cm : Vous etes trop petits, allez manger de la soupe.')
 
 
-exo 2:
+#exo 2:
 
 def jeu_video(x) :
     votre_sante = 100
@@ -24,7 +24,7 @@ def jeu_video(x) :
 jeu_video(2),jeu_video(8),jeu_video(10)
 
 
-exo 3
+#exo 3
 
 def pokemon_choisi(pokemon):
     if  pokemon == a :
